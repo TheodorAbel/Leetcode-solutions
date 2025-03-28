@@ -68,5 +68,5 @@ Can you design an **algorithm with less than O(n²) time complexity**? 🤔
 ---
 
 ## Solution
-Check out the solution in the [`twoSum.py`](./twoSum.py) file. 🚀
+Check out the solution in the [`two-Sum.py`](./two-Sum.py) file. 🚀
 
